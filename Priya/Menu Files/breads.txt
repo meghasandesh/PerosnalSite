@@ -1,0 +1,26 @@
+NAAN 
+Flat bread baked on the walls of the tandoor (fire oven)
+	
+GARLIC NAAN
+Naan layered with chopped garlic and cilantro
+
+ONION NAAN
+Naan layered with chopped onions
+
+KANDHARI NAAN
+Naan stuffed nuts and raisins
+
+TAWA PARATHA
+Whole wheat flat bread grilld on tawa (pan)
+
+ALOO PARATHA
+Whole wheat bread stuffed with spiced potatoes
+
+ROTI
+Whole wheat bread baked on the walls of tandoor
+
+POORI
+Whole wheat puffed bread
+
+BREAD BASKET
+An assortment of naans

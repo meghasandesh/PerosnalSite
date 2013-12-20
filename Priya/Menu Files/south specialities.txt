@@ -1,0 +1,25 @@
+IDLY
+Steamed rice and lentil patties served with sambar & chutney
+
+IDLY SAMBAR
+Idly served with immersed in a bowl of sambar
+
+MEDU VADA
+Fried lentil donuts served with sambar & chutney
+
+VADA SAMBAR
+Fried lentil donuts immersed in a bowl of sambar
+
+DHAHI VADA
+Fried lentil donuts chilled immersed in a bowl of mildly 
+spiced yogurt
+
+UPMA
+Cream of wheat cooked with onions and garnished with nuts 
+and curry leaves
+
+POORI BHAJI
+Whole wheat bread deep fried served with potato bhaji
+
+CHOLE BATURA
+Large fried puffy bread served with chickpeas curry
